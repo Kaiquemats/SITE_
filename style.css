@@ -16,6 +16,15 @@ body {
 
 }
 
+.lista {
+    display: inline-block;
+}
+
+.lista2 {
+    margin-right: 15px;
+    display: inline-block;
+}
+
 h1#principall {
     font-family: 'idroid', times, serif;
 }
